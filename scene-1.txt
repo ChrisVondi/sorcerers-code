@@ -1,0 +1,2 @@
+Harry Programmer and the Sorcerers Code: Scene 1
+git remote add origin https://github.com/ChrisVondi/sorcerers-code.git
